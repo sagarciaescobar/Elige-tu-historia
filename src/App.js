@@ -1,8 +1,7 @@
+import Historia from "./components/Historia/Historia";
+
 function App() {
-  return (
-    <div className="App">
-    </div>
-  );
+  return <Historia />;
 }
 
 export default App;

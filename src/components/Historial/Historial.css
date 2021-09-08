@@ -1,0 +1,14 @@
+.historial{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.historial p {
+    font-weight: 700;
+}
+
+h4{
+    margin-top: 10px;
+}
