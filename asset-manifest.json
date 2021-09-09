@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Elige-tu-historia/static/css/main.90571ecf.chunk.css",
+    "main.js": "/Elige-tu-historia/static/js/main.84d34f0c.chunk.js",
+    "main.js.map": "/Elige-tu-historia/static/js/main.84d34f0c.chunk.js.map",
+    "runtime-main.js": "/Elige-tu-historia/static/js/runtime-main.860e7777.js",
+    "runtime-main.js.map": "/Elige-tu-historia/static/js/runtime-main.860e7777.js.map",
+    "static/js/2.eb675946.chunk.js": "/Elige-tu-historia/static/js/2.eb675946.chunk.js",
+    "static/js/2.eb675946.chunk.js.map": "/Elige-tu-historia/static/js/2.eb675946.chunk.js.map",
+    "index.html": "/Elige-tu-historia/index.html",
+    "static/css/main.90571ecf.chunk.css.map": "/Elige-tu-historia/static/css/main.90571ecf.chunk.css.map",
+    "static/js/2.eb675946.chunk.js.LICENSE.txt": "/Elige-tu-historia/static/js/2.eb675946.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Elige-tu-historia/static/media/bg.a9cb48b9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.860e7777.js",
+    "static/js/2.eb675946.chunk.js",
+    "static/css/main.90571ecf.chunk.css",
+    "static/js/main.84d34f0c.chunk.js"
+  ]
+}
